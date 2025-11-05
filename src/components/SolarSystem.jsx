@@ -154,3 +154,4 @@ function SolarSystem({ onSelectPlanet }) {
 }
 
 export default SolarSystem;
+src/assets/music/Coldplay, BTS — My Universe.mp3
